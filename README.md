@@ -3,10 +3,10 @@
 </div>
 
 ## About Me
-- 🎓 Student in Computer System Engineering
-- 🌐 ✨I'm a BackEnd Developer✨ , I love what I do 💖!
-- 🎦 I've worked on a API REST for CosoMovie App 
-- 📗 I'm always learning something new, currently I started with Docker 💻
+  - I'm majoring in Computer Science
+  - I'm a BackEnd developer
+  - I've worked on the API REST for the CosoMovies app
+  - I'm always open to learn something new. Currently, I'm learning to use Docker.
 <br>
 
 
@@ -46,4 +46,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-walthercarrasc16o%40gmail.com-red?logo=gmail&style=flat-square&labelColor=white)](mailto:walthercarrasco16@gmail.com)
 
 [![Outlook](https://img.shields.io/badge/Outlook-walthercarrasco16%40unitec.edu-darkblue?logo=microsoft-outlook&style=flat-square&labelColor=darkblue)](mailto:walthercarrasco16@unitec.edu)
+
+[![Discord](https://img.shields.io/badge/Discord-tonohn-darkblue?logo=discord&style=flat-square&labelColor=white)]()
 </p>
