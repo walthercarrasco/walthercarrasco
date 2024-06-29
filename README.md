@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 <h1 align="center">Hi, I'm  Walther Carrasco 👋</h1>
 </div>
