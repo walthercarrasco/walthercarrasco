@@ -45,5 +45,5 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-walthercarrasc16o%40gmail.com-red?logo=gmail&style=flat-square&labelColor=white)](mailto:walthercarrasco16@gmail.com)
 
-[![Outlook](https://img.shields.io/badge/Outlook-walthercarrasco16%40unitec.edu-darkblue?logo=microsoft-outlook&style=flat-square&labelColor=darkblue)](mailto:clau_cortes10@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-walthercarrasco16%40unitec.edu-darkblue?logo=microsoft-outlook&style=flat-square&labelColor=darkblue)](mailto:walthercarrasco16@unitec.edu)
 </p>
